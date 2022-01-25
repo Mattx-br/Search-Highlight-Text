@@ -1,5 +1,5 @@
 # Search Highlight Text
-✅ Search Highlight Text é uma aplicação que simplesmente procura o texto digitado no texto, marcando as ocorrências.
+✅ Search Highlight Text is an application that searches for a occurrence of a typed text and highlights it.
 
 ## 📚 Referências 
 
